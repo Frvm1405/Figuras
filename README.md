@@ -78,7 +78,3 @@ Enter the image path: myphoto.jpg
 7. Exit
 Select an option (1-7):
 ```
-
----
-
-**Enjoy editing your images
